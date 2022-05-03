@@ -25,6 +25,7 @@
 
 ## Usage
 <p>1. Open terminal<br>2. cd to the project root directory<br>3. Run the command 'npm start'</p>
+<h2>Live URL:</h2> https://track-ur-budget.herokuapp.com/
 <img width="1224" alt="BudgetTracker" src="https://user-images.githubusercontent.com/55717787/166397645-cf341191-2b99-4efb-ba78-b3f39c165ffd.png">
 
 ## Credits
